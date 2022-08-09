@@ -22,3 +22,5 @@ function palindrome(str) {
   palindrome("eye");
   palindrome("_eye");
   palindrome("A man, a plan, a canal. Panama");
+  palindrome("Tears");
+  
